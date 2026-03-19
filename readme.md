@@ -23,7 +23,7 @@ This project is a simple SQL database of tourist places in Dharamshala.
 ## How to Run
 
 1. Open SQL environment
-2. Run `dharamshala_places.sql`
+2. Run `tourist_spot_dharamshala.sql`
 3. Execute queries to view results
 
 ## Purpose
